@@ -1,0 +1,21 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+1672378781896	geckodriver	INFO	Listening on 127.0.0.1:62431
+1672378817200	geckodriver	INFO	Listening on 127.0.0.1:62464
+1672378820320	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\esi\\AppData\\Local\\Temp\\rust_mozprofilekcQTlz"
+1672378820819	Marionette	INFO	Marionette enabled
+1672378820836	Marionette	INFO	Listening on port 62477
+Read port: 62477
+WebDriver BiDi listening on ws://127.0.0.1:62465
+1672378821321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esi\\AppData\\Local\\Temp\\rust_mozprofilekcQTlz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62465/devtools/browser/05f4d9cc-2cfb-4223-a7d3-f95c992cce08
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80049, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80049, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80049, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80049, line 564: unreachable code after return statement
+1672379413436	Marionette	INFO	Stopped listening on port 62477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...
